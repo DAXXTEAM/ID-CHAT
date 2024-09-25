@@ -1,3 +1,5 @@
+from pyrogram.types import ChatAction, Message
+
 from pyrogram import Client, filters
 import asyncio
 from pyrogram.types import *
